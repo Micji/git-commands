@@ -20,7 +20,7 @@ pushes local branch to remote repo
 
 ### configure basic settings and set vs.code as default editor for rebasing/merging
 git config --global user.name "Your Name"  
-git config --global user.email "your@email.cool"  
+git config --global user.email your@email.cool  
 git config --global core.editor code  
 git config --global merge.tool code  
   
