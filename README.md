@@ -27,6 +27,7 @@ git config --global merge.tool code
 ---
 
 ## Rebasing in 10 simple steps (wait until you see number 7!)
+*configure settings and tools before starting*
 1. git fetch
 2. git checkout master
 3. git pull
