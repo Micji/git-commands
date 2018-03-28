@@ -45,3 +45,9 @@ git config --global merge.tool code
 8. merge commit message
 9. save & quit
 10. git push
+
+---
+
+## Stash
+git stash save --keep-index
+git stash drop
